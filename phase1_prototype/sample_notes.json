@@ -1,0 +1,14 @@
+[
+  {
+    "id": "note_1",
+    "text": "Patient is a 65-year-old male presenting with severe shortness of breath and wheezing. He has a history of type 2 diabetes mellitus without complications. Assessment: Acute exacerbation of asthma."
+  },
+  {
+    "id": "note_2",
+    "text": "32-year-old female presents with sharp right lower quadrant abdominal pain, nausea, and fever. Appendicitis is suspected. No prior history of hypertension."
+  },
+  {
+    "id": "note_3",
+    "text": "Patient was admitted for a fractured right radius after a fall. X-rays confirm a closed torus fracture of the lower end of the right radius. Initial encounter."
+  }
+]
